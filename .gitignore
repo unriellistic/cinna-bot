@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 drinks.json
+fly.toml
